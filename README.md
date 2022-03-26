@@ -1,0 +1,1 @@
+# php_init_symfony_project_standards
